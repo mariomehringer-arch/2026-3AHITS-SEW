@@ -1,9 +1,11 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/OOP/OOP.csproj" />
     <Project Path="src/Ubung_1_1/Ubung_1_1.csproj" />
     <Project Path="src/Ubung_1_2/Ubung_1_2.csproj" />
     <Project Path="src/Ubung_1_3/Ubung_1_3.csproj" />
     <Project Path="src/Ubung_1_4/Ubung_1_4.csproj" />
+    <Project Path="src/Ubung_1_5/Ubung_1_5.csproj" />
   </Folder>
   <Project Path="src/HelloWorld/HelloWorld.csproj" />
 </Solution>
